@@ -13,6 +13,10 @@ The product is designed to make lesson explanations and homework ideas more rele
 - Supports privacy-friendly nickname-based student profiles
 - Includes quick access to major AI assistants from the extension popup
 
+## Example generated prompts
+
+Example prompt outputs generated with TeacherPrompt: https://chatgpt.com/share/69d2a60b-df68-8391-aca3-5b3b026b49b8
+
 ## Tech Stack
 
 JavaScript, HTML, CSS, Chrome Extensions, Google Apps Script, Google Sheets
