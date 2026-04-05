@@ -25,6 +25,12 @@ JavaScript, HTML, CSS, Chrome Extensions, Google Apps Script, Google Sheets
 
 TeacherPrompt combines educational domain knowledge with practical software development to solve a real teacher workflow: turning student-specific context into usable AI prompts in just a few clicks.
 
+## Screenshots
+
+![TeacherPrompt popup](TeacherPrompt-popup.png)
+
+Main popup interface of the extension, showing student selection, subject/topic input, and one-click prompt generation for teaching workflows.
+
 ## Note
 
 This repository is a public project showcase.  
